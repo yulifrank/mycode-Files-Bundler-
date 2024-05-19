@@ -25,7 +25,7 @@ A Command Line Interface (CLI) tool for bundling code files into a single file a
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/file-bundler-cli.git
+    git clone https://github.com/yulifrank/mycode-Files-Bundler-.git
     ```
 
 2. Navigate to the project directory:
@@ -64,9 +64,9 @@ dotnet run bundle --output bundled.txt --language "c# java" --note --sort type -
 To contribute or modify the project, follow these steps:
 
 #### Clone the repository:
-
-
-git clone https://github.com/yourusername/file-bundler-cli.git
+    ```sh
+    git clone https://github.com/yulifrank/mycode-Files-Bundler-.git
+    ```
 Navigate to the project directory:
 
 ```sh
