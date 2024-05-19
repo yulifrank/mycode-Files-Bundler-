@@ -59,7 +59,8 @@ The `bundle` command bundles code files into a single file.
 
 ```sh
 dotnet run bundle --output bundled.txt --language "c# java" --note --sort type --remove-empty-lines --author "Your Name"
-Development
+```
+#### Development
 To contribute or modify the project, follow these steps:
 
 #### Clone the repository:
