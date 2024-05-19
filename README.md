@@ -56,6 +56,8 @@ The `bundle` command bundles code files into a single file.
 #### Example
 
 
+
+```sh
 dotnet run bundle --output bundled.txt --language "c# java" --note --sort type --remove-empty-lines --author "Your Name"
 Development
 To contribute or modify the project, follow these steps:
@@ -66,10 +68,15 @@ To contribute or modify the project, follow these steps:
 git clone https://github.com/yourusername/file-bundler-cli.git
 Navigate to the project directory:
 
+```sh
 cd file-bundler-cli
+```
 Open the project in your preferred code editor and make your changes.
 
 Build and test the project:
-
+```sh
 dotnet build
+```
+```sh
 dotnet test
+```
