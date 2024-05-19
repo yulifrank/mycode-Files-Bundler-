@@ -64,9 +64,9 @@ dotnet run bundle --output bundled.txt --language "c# java" --note --sort type -
 To contribute or modify the project, follow these steps:
 
 #### Clone the repository:
-    ```sh
+
     git clone https://github.com/yulifrank/mycode-Files-Bundler-.git
-    ```
+
 Navigate to the project directory:
 
 ```sh
